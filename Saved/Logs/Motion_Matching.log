@@ -1546,3 +1546,10 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.13-15.52.36:276][432]AssetCheck: New page: Asset Save: StaticMeshActor_8
 [2023.05.13-15.52.36:276][432]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_8
 [2023.05.13-15.52.36:283][432]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.13-15.54.16:229][889]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.13-15.54.16:254][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode" FILE="J:/Productivity/UE/Motion_Matching/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset" SILENT=true
+[2023.05.13-15.54.16:256][889]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2023.05.13-15.54.16:256][889]LogSavePackage: Moving 'J:/Productivity/UE/Motion_Matching/Saved/BP_ThirdPersonGameMode190D277E41F6B5169D80508974458692.tmp' to 'J:/Productivity/UE/Motion_Matching/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2023.05.13-15.54.16:274][889]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 562 ms)
+[2023.05.13-15.54.16:282][889]AssetCheck: New page: Asset Save: BP_ThirdPersonGameMode
+[2023.05.13-15.54.16:282][889]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
